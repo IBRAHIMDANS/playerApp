@@ -1,5 +1,5 @@
-<template>git
-  <button
+<template>
+  <button 
     class="btn-default disabled:opacity-50"
     :class="{ 'bg-gray-800': disabled, 'bg-blue-500': !disabled, 'btn-active': !disabled, 'cursor-not-allowed': disabled}"
     :disabled="disabled"
