@@ -10,7 +10,7 @@
   "dependencies": {
     "autoprefixer": "^9",
     "core-js": "^3.6.5",
-    "postcss": "^7",
+    "postcss": "8.2.12",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-rc.5",
